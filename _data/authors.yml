@@ -1,0 +1,25 @@
+couple:
+  name: Honza & Kája
+  picture: /assets/img/couple.jpg
+  about: |
+    Bude to ťuťu ňuńu jak sviňa
+
+honza:
+  name: 
+  picture: /assets/img/honza.jpg
+  about: |
+    Čau, já jsem Honza a dělal jsem tenhle web. A taky budu ženich 
+  social:
+    email: jan.dobiasovsky@proton.me
+    instagram: jsemvandrak
+
+kaja:
+  name: Karolína Mastníková
+  picture: /assets/img/kaja.jpg
+  about: |
+    Čau, já jsem Kája a jsem svatební manažer. A taky budu nevěsta
+  social: 
+    email: karolina.mastnikova@email.cz
+    instagram: karolina.mastnikova
+
+
