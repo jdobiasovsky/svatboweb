@@ -1,8 +1,5 @@
 domain: liscinora.cz       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https:/liscinora.cz/  # the base hostname and protocol for your site, e.g. http://example.com
-title: Honza & Kája
-description: >- # this means to ignore newlines until "baseurl:"
-  Na vědomost se dává, že se Honza konečně přišel na způsob jak Káje změřit prst. Jste zvaný, bude to hezký, bude to na pohodu a možná si i zalezeš
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jdobiasovsky
@@ -16,6 +13,7 @@ plugins:
 
 lang:                  cs
 title:                 Bude svatba!
+description:           Na vědomost se dává, že Honza konečně přišel na způsob, jak Káje změřit prst. Jste zvaný, bude to hezký, bude to na pohodu a možná si i zalezeš!
 copyright:             © 2025. Všechna práva vyhrazena. Čtením této sekce souhlasíte s pomocí s úklidem v neděli.
 
 accent_image:          /assets/img/sidebar-bg.jpg
