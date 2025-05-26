@@ -91,6 +91,8 @@ menu:
     url:   /when/
   - title: Program
     url:   /schedule/
+  - title: Časté dotazy
+    url: /faq/
   - title: O nás
     url:   /about/
   - title: Nevěsta
