@@ -4,6 +4,8 @@ title: Jak to bude probíhat
 permalink: /schedule/
 ---
 
+Svatba bude 30. srpna.
+
 Prosíme berte časy s rezervou, Kája chodí všude o 15 minut dřív, ale Honza má v lásce akademickou čtvrthodinku.
 
 ## Program
