@@ -15,7 +15,7 @@ Ano a ne. Svatba bude laděná výzdobou do následující palety, takže pokud 
 můžeš toho využít. Ale povinné to rozhodně není. Jediná výjimka jsou asi bílé, nebo červené šaty a černé košile či kravaty.
 Zvyky se musí dodržovat ;)
 
-#TODO paleta
+<img src="/assets/img/paleta2.png" alt="Pučmeloud">
 
 ## Co svatební dary?
 
