@@ -4,15 +4,19 @@ title: Jak to bude probíhat
 permalink: /schedule/
 ---
 
-Svatba bude 30. srpna.
+Svatba bude 30. srpna 2025.
 
 Prosíme berte časy s rezervou, Kája chodí všude o 15 minut dřív, ale Honza má v lásce akademickou čtvrthodinku.
 
 ## Program
 
-### 11:00 - 12:00 Příjezd svatebčanů
+### 11:30 - 12:00 Příjezd svatebčanů
 
-Místo se ještě upřesní, nicméně se sejdeme někde dole ~~ve vesnici~~ v základním táboře.
+Zaparkovat můžete u Sokolovny (místa budou vyhrazena) a poté dojít pěšky na parkoviště, ze kterého budeme vyrážet společně nahoru. 
+Alternativně můžete zaparkovat přímo na místě srazu.
+<br>
+
+<iframe style="border:none" src="https://mapy.com/s/naramudate" width="400" height="280" frameborder="0"></iframe>
 
 ### 12:00 - 13:00 Společný výstup nahoru na Panťák
 
@@ -32,13 +36,15 @@ a zbytek focení proběhne až dole. A nebo to taky všechno nafotíme za dešt�
 Kdo chce může se samozřejmě zdržet nahoře déle ale ve 4 je ostrý start rautu. Gastronadšencům proto doporučujeme
 si hlídat čas.
 
-### 17:30 První tanec?
-
-To nechcete prošvihnout, ani jeden neumíme tancovat.
-
-### 18:00 nebo 3:00 Krájení dortu
+### 17:30 Krájení dortu (záložní čas 3:00)
 
 Dort bude, doufám teda. Někdy ve zlaté hodince chceme utéct na focení, pokud bude svítit.
+
+### 19:30 Házení kytice a cena útěchy pro neženaté muže
+
+### 20:00 První tanec?
+
+To nechcete prošvihnout, ani jeden neumíme tancovat.
 
 ### 20:00 - 10:00 oslava života
 
