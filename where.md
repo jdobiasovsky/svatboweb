@@ -4,7 +4,11 @@ title: Kde to bude?
 permalink: /where/
 ---
 
-Počáteční místo ještě upřesníme, ještě jsme úplně nevyřešili parkování. Nicméně zatím můžete počítat, že se potřebujete dostat do obce Malá Skála (Český ráj / kousek od Turnova)
+## Začátek svatby
+Před obřadem se sejdeme na parkovišti pod Pantheonem. Pokud chcete, auto je možné taky nechat před sokolovnou a dojít pěšky.
+<br>
+
+<iframe style="border:none" src="https://mapy.com/s/cetolakume" width="500" height="333" frameborder="0"></iframe>
 
 Pokud jste dobrodruzi, na Malou Skálu jezdí veřejná doprava. (Opatrně s vlakem, má mít výluku)
 
@@ -24,6 +28,6 @@ Na hostinu se po obřadu přesuneme do maloskalské sokolovny.
 
 ## Přespání
 
-Pokud vám nevadí spaní ve spacáku, můžete spát přímo na místě. Uvnitř to bude možné určitě a pro ranné spáče se snažíme s majiteli domluvit i možnost postavení stanu na zahradě.
+Pokud vám nevadí spaní ve spacáku, můžete spát přímo na místě. Je možné spát přímo uvnitř sokolovny, v případě že plánujete jít spát dřív a máte rádi na spaní větší klid, můžete si na zahradě vedle sokolovny postavit stan.
 
 Pokud plánujete si někde shánět větší pohodlí, napište Honzovi nebo Káje, třeba zvládneme poradit. Svoz bude zajištěný.

@@ -7,7 +7,7 @@ permalink: /faq/
 ## Co si mám vzít na sebe?
 
 Svatební obřad bude v poloformálním stylu. Pokud si vážíš elegance, vezmi si oblek. Pokud jsi pragmatik, tak košile ti bohatě bude stačit.
-Důležité je abychom se všichni cítili pohodlně a dobře. V lakýrkách výšlap zvládneš, ale tenisky v neutrální barvě ti taky poslouží.
+Důležité je, abychom se všichni cítili pohodlně a dobře. V lakýrkách výšlap zvládneš, ale tenisky v neutrální barvě ti taky poslouží.
 
 ## Máte barevné schéma? Mám s ním ladit?
 
